@@ -17,6 +17,10 @@ This is a simple authentication demo using Firebase and React. The application a
 - Tailwind CSS
 - React Router
 
+## Live Demo 
+
+   [AuthApp](https://authenticationappfirebase.netlify.app/)
+
 ## Screenshots
 **Home Page**
 ![Home Page](src/assests/Home.png)
